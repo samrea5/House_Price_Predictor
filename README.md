@@ -6,7 +6,7 @@ This project is looking to predict trends in the housing market using machine le
 
 ### Navigation
 
-Currently there are two folders one contains the R script to create the shiny plot. This folder is labeled Data_Visualization. The Second folder contains the data sets as well as the python script used to clean the data for the visualization using R. the clean data set was also included if you do not want to run the data wrangling script as well. 
+Currently there are two folders one contains the R script to create the shiny plot. This folder is labeled Data_Visualization. The Second folder (Data and Data Cleaning) contains the data sets as well as the python script used to clean the data for the visualization using R. the clean data set was also included if you do not want to run the data wrangling script as well. 
 
 ### Sources
 
