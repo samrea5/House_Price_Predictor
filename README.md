@@ -12,8 +12,10 @@ Currently there are two folders one contains the R script to create the shiny pl
 
 Redfin data center for accessing data downloads
 https://www.redfin.com/news/data-center/
+
 plotly documentation
 https://plotly.com/r/
+
 Shiny documentation
 https://www.rdocumentation.org/packages/shiny/versions/1.8.1.1
 
